@@ -7,7 +7,7 @@
   <img align="left" alt="Julia's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
                             
-<br>
+<br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzolo22&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
