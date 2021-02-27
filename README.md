@@ -6,11 +6,10 @@
 <a href="https://www.linkedin.com/in/jzolotarev/">
   <img align="left" alt="Julia's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
-
+                            
+<br>
                                
-<br><br>
-                               
-**Languages and Tools:**  
+### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
