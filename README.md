@@ -5,8 +5,8 @@ I'm a full-stack web developer coming from 7+ years in the hospitality industry.
 <a href="https://www.linkedin.com/in/jzolotarev/" target="_blank">Linkedin</a> • <a href="https://twitter.com/JZolo" target="_blank">Twitter</a> • <a href="https://jzolotarev.medium.com/" target="_blank">Blog</a> • <a href="mailto: jzolotarev@gmail.com" target="_blank">Email</a>
 
 ## 👩‍💻 I'm Currently:
-- learning algorithms (merge sort is my favorite so far) & data structures
-- mastering advanced git commands / workflow
+- learning algorithms (merge sort is my favorite so far) & data structures - <a href="https://github.com/jzolo22/DS-ALGO-practice/tree/master/algorithms">(see notes)</a>
+- mastering advanced git commands / workflow - <a href="https://github.com/jzolo22/git-colt-steele/tree/master/notes">(see notes)</a>
 - working on a portfolio website 
 - volunteering on a charming 🍎 picking app
 - improving my CSS skills
