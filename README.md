@@ -1,15 +1,12 @@
-### Hi, I'm Julia! Let's connect :)
+## Hi, I'm Julia! 👋
 
-<a href="https://twitter.com/jzolo">
-  <img align="left" alt="Julia Zolotarev" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/jzolotarev/">
-  <img align="left" alt="Julia's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> 
-                            
-<br><br>
+I'm a full-stack web developer coming from 7+ years in the hospitality industry. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzolo22&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+### Currently Working On:
+- algorithms (merge sort is my favorite so far)
+- data structures
+- portfolio website
+- 
 
                                
 ### Languages and Tools:
