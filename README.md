@@ -2,6 +2,8 @@
 
 I'm a full-stack web developer coming from 7+ years in the hospitality industry. I'm passionate about clean code, constant learning, and creating delightful user experiences. In my spare time, I'm probably reading (my favorite book is <a href="https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow">A Gentleman in Moscow</a>), exploring Brooklyn by bike, or crocheting <a href="https://www.instagram.com/p/CDPJUkInBqw/">baby things</a> for my friends 👶
 
+<a href="https://www.linkedin.com/in/jzolotarev/" >Linkedin</a> • <a href="https://twitter.com/JZolo">Twitter</a> • <a href="https://jzolotarev.medium.com/">Blog</a> • <a href="mailto: jzolotarev@gmail.com">Email</a>
+
 ## 👩‍💻 I'm Currently:
 - learning algorithms (merge sort is my favorite so far) & data structures
 - mastering advanced git commands / workflow
@@ -20,5 +22,3 @@ I'm a full-stack web developer coming from 7+ years in the hospitality industry.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 
-### 👯‍♀️ Let's be friends:
-<a href="https://www.linkedin.com/in/jzolotarev/" >Linkedin</a> • <a href="https://twitter.com/JZolo">Twitter</a> • <a href="https://jzolotarev.medium.com/">Blog</a>
