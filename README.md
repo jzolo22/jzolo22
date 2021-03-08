@@ -13,12 +13,12 @@ I'm a full-stack web developer coming from 7+ years in the hospitality industry.
 - probably having a snack 🤭
 - looking for a junior developer role!
                                
-## Languages and Tools:
+## 🛠 Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 
-### Let's be friends:
+### 👯‍♀️ Let's be friends:
 <a href="https://www.linkedin.com/in/jzolotarev/" >Linkedin</a> • <a href="https://twitter.com/JZolo">Twitter</a> • <a href="https://jzolotarev.medium.com/">Blog</a>
