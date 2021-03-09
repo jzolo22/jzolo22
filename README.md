@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julia! 
 
-I'm a full-stack web developer coming from 7+ years in the hospitality industry. I'm passionate about clean code, constant learning, and creating delightful user experiences. In my spare time, I'm probably reading (my favorite book is <a href="https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow" target="_blank">A Gentleman in Moscow</a>), exploring Brooklyn by bike, or crocheting <a href="https://www.instagram.com/p/CDPJUkInBqw/" target="_blank">baby things</a> for my friends 👶
+I'm a full-stack web developer coming from 7+ years in the hospitality industry (I like helping people!). I'm passionate about clean code, constant learning, and creating delightful user experiences. In my spare time, I'm probably reading (my favorite book is <a href="https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow" target="_blank">A Gentleman in Moscow</a>), exploring Brooklyn by bike, or crocheting <a href="https://www.instagram.com/p/CDPJUkInBqw/" target="_blank">baby things</a> for my friends 👶
 
 <a href="https://www.linkedin.com/in/jzolotarev/" target="_blank">Linkedin</a> • <a href="https://twitter.com/JZolo" target="_blank">Twitter</a> • <a href="https://jzolotarev.medium.com/" target="_blank">Blog</a> • <a href="mailto: jzolotarev@gmail.com" target="_blank">Email</a>
 
