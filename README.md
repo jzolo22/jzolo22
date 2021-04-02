@@ -8,12 +8,11 @@ I'm a full stack web developer coming from 7+ years in the hospitality industry 
 - learning algorithms (merge sort is my favorite so far) & data structures - <a href="https://github.com/jzolo22/DS-ALGO-practice/tree/master/algorithms">(see notes)</a>
 - mastering advanced git commands / workflow - <a href="https://github.com/jzolo22/git-colt-steele/tree/master/notes">(see notes)</a>
 - working on a portfolio website 
-- volunteering on a charming 🍎 picking app
+- volunteering as a mentor to students learning Ruby & Ruby on Rails
 - improving my CSS skills
 - refactoring an older project to include React Hooks
 - incorporating code testing
 - probably having a snack 🤭
-- looking for a junior developer role!
                                
 ## 🛠 Languages and Tools:
 
