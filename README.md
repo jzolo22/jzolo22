@@ -5,19 +5,17 @@ I'm a full stack web developer coming from 7+ years in the hospitality industry 
 <a href="https://www.linkedin.com/in/jzolotarev/" target="_blank">Linkedin</a> • <a href="https://twitter.com/JZolo" target="_blank">Twitter</a> • <a href="https://jzolotarev.medium.com/" target="_blank">Blog</a> • <a href="mailto: jzolotarev@gmail.com" target="_blank">Email</a>
 
 ## 👩‍💻 I'm Currently:
-- learning algorithms (merge sort is my favorite so far) & data structures - <a href="https://github.com/jzolo22/DS-ALGO-practice/tree/master/algorithms">(see notes)</a>
-- mastering advanced git commands / workflow - <a href="https://github.com/jzolo22/git-colt-steele/tree/master/notes">(see notes)</a>
-- working on a portfolio website 
-- volunteering as a mentor to students learning Ruby & Ruby on Rails
-- improving my CSS skills
-- refactoring an older project to include React Hooks
-- incorporating code testing
+- working as a software engineer with an amazing team at @JupiterOne
+- working on improving in all the acronymed things:
+  - CSS
+  - AWS
+  - DS&A
 - probably having a snack 🤭
                                
-## 🛠 Languages and Tools:
+## 🛠 Current Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
